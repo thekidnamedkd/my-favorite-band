@@ -1,5 +1,7 @@
 body {
   font-family: sans-serif, arial;
+  line-height: 1.5;
+  margin: 0px 20px 0px 20px;
 }
 
 h1 {
@@ -39,7 +41,7 @@ a:hover{
   max-height: auto;
 }
 .sidebar-text ul {
-  margin: 12px;
+  margin-left: 10px;
   border: 2px solid red;
   border-radius: 10px;
   border-top-style: solid;
