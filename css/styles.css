@@ -15,3 +15,7 @@ img {
 a {
   color: red
 }
+
+.album-link {
+  font-style: italic;
+}
