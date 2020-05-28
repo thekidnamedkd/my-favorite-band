@@ -8,8 +8,8 @@ h1 {
 }
 
 img {
-  width: 500px;
-  height: 300px;
+  max-width: 100%;
+  height: auto;
   border-radius: 15px 50px;
 }
 
@@ -23,11 +23,12 @@ a:hover{
 }
 
 .sidebar {
-  width: 30%;
-  float: right;
+  width: 300px;
+  float: left;
 }
 .main {
-
+  width: 70%;
+  float: right;
 }
 
 .album {
