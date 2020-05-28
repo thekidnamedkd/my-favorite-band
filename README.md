@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _MY FAVORITE BAND_
 
 #### _A fanpage, 05.28.20_
 
