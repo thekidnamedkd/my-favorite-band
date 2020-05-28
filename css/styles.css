@@ -25,3 +25,8 @@ a:hover{
 .album {
   font-style: italic;
 }
+
+.list {
+  font-size: 10pt;
+  line-height: 1.5;
+}
