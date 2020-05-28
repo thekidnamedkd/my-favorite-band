@@ -7,14 +7,19 @@ h1 {
   text-shadow: 2px 2px black;
 }
 
-img {
-  max-width: 100%;
-  height: auto;
-  border-radius: 15px 50px;
-}
-
 a {
   color: red
+}
+
+.main {
+  width: 70%;
+  float: right;
+}
+
+.main-photo img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px 25px;
 }
 
 a:hover{
@@ -23,12 +28,15 @@ a:hover{
 }
 
 .sidebar {
-  width: 300px;
+  max-width: 30%;
   float: left;
+  margin-right: 25px;
 }
-.main {
-  width: 70%;
-  float: right;
+
+.sidebar-photo img {
+  align: center;
+  max-width: 25%;
+  max-height: auto;
 }
 
 .album {
