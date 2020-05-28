@@ -19,6 +19,7 @@ a {
 .main-photo img {
   max-width: 100%;
   height: auto;
+  border: 2px solid red;
   border-radius: 8px 25px;
 }
 
@@ -30,13 +31,23 @@ a:hover{
 .sidebar {
   max-width: 30%;
   float: left;
-  margin-right: 25px;
 }
 
 .sidebar-photo img {
   align: center;
   max-width: 25%;
   max-height: auto;
+}
+.sidebar-text ul {
+  margin: 12px;
+  border: 2px solid red;
+  border-radius: 10px;
+  border-top-style: solid;
+  border-right-style: none;
+  border-bottom-style: none;
+  border-left-style: solid;
+  padding: 4px;
+  background-color: white;
 }
 
 .album {
