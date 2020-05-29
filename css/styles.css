@@ -22,7 +22,7 @@ a {
   max-width: 100%;
   height: auto;
   border: 2px solid red;
-  border-radius: 8px 25px;
+  border-radius: 10px 25px;
 }
 
 a:hover{
@@ -43,7 +43,7 @@ a:hover{
 .sidebar-text ul {
   margin-left: 10px;
   border: 2px solid red;
-  border-radius: 10px;
+  border-radius: 10px 0px 0px 0px;
   border-top-style: solid;
   border-right-style: none;
   border-bottom-style: none;
